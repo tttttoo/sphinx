@@ -7,7 +7,7 @@ include CODE_OF_CONDUCT
 include CONTRIBUTING.rst
 include EXAMPLES
 
-include babel.cfg
+include 
 include Makefile
 include sphinx-autogen.py
 include sphinx-build.py
